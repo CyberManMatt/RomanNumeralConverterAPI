@@ -4,6 +4,7 @@
   "license": "MIT",
   "version": "1.0.0",
   "description": "A simple Roman numeral converter microservice using Express.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node",
     "dev": "nodemon server.js",
